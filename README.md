@@ -1,2 +1,3 @@
-# dio_desafio_github_first_project
-Primeiro projeto no Github
+# Desafio Git/Github da DIO
+### Repósitorio dedicado ao desafio da DIO
+
